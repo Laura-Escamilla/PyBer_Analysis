@@ -23,7 +23,7 @@ The information described above can be seen reflected in the following image:
 
 <img width="361" alt="Total_rides" src="https://user-images.githubusercontent.com/113747210/198143467-22c158df-ea59-47f7-8492-2c1efb2ca028.png">
 
-In the next graph we can see the total fare by city type in a given period of January to April:
+- In the next graph we can see the total fare by city type in a given period of January to April:
 
 ![PyBer_fare_by_summary](https://user-images.githubusercontent.com/113747210/198143601-bbaa8878-72ba-4754-9d26-5972accc8f90.png)
 
@@ -32,11 +32,11 @@ In the next graph we can see the total fare by city type in a given period of Ja
 
 -	Business recommendations to the CEO for addressing any disparities among the city types.
 
--	Seeing that the average fare is much lower in urban cities, I would recommend modifying the calculation for certain trips that benefit the company and the driver by increasing the cost per kilometer traveled since they are surely shorter trips.
+1. Seeing that the average fare is much lower in urban cities, I would recommend modifying the calculation for certain trips that benefit the company and the driver by increasing the cost per kilometer traveled since they are surely shorter trips.
 
--	Determine a fare increase according to the time of day the trips occur. 
+2. Determine a fare increase according to the time of day the trips occur. 
 
--	Determine the rate according to the availability of drivers in urban cities and at the same time make long trips, suburban and rural cities, more attractive to encourage a greater number of trips for the available drivers.
+3. Determine the rate according to the availability of drivers in urban cities and at the same time make long trips, suburban and rural cities, more attractive to encourage a greater number of trips for the available drivers.
 
 
 
